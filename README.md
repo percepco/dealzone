@@ -13,5 +13,5 @@
 - **NestJS:** Provides a robust and efficient backend architecture.
 - **Firebase:** Powers real-time database and authentication services.
 - **Next.js:** Offers a responsive and dynamic frontend experience.
-- 
+
 DealZone leverages these technologies to create an unparalleled auction experience, ensuring reliability and efficiency at every step of the process.
