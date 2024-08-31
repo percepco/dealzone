@@ -4,5 +4,5 @@ backend/dist
 frontend/node_modules
 
 # secrets
-.git
+/backend/.git
 frontend/pnpm-lock.yaml
