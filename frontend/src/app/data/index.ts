@@ -776,7 +776,7 @@ export const helpsidebar =
                 {
                     id: 11,
                     name: "Contact Us",
-                    link: "/help/contact-us"
+                    link: "/support"
                 }
             ]
         },
