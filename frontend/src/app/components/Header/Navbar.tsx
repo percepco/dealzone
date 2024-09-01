@@ -15,7 +15,9 @@ const Navbar = () => {
     return (
         <section id="primary-menu">
             <div className='  flex justify-between p-2 items-center'>
+                <Link href={"/"}>
                 <Image src={"/logo.webp"} alt='logo' width={200} height={200} />
+                </Link>
                 <Image src={"/seal.png"} alt='trust' width={80} height={80} />
             </div>
             <div className="flex justify-end -mt-2">
